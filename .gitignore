@@ -2,7 +2,6 @@
 __pycache__/
 
 # 数据集文件
-dataset/
 
 # 模型文件
 models/
